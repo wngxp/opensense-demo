@@ -8,3 +8,4 @@ python -c "import opensim; print(opensim.__version__)"
 
 ## Tutorial link
 OpenSense - Kinematics with IMU Data
+https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/pages/53084203/OpenSense+-+Kinematics+with+IMU+Data
